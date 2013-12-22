@@ -5,8 +5,17 @@ http://raidersec.blogspot.com/2013/07/building-ssh-botnet-c-using-python-and.htm
 
 This tool is meant for academic use only.  It is not meant for use on systems the operator does not have consent to operate on.  The author of this code takes no responsibility for its use.  Please do not use this system publicly, unless you contact the author first.
 
+      _________      .__    .___                          __   
+     /   _____/_____ |__| __| _/___________  ____   _____/  |_ 
+     \_____  \\____ \|  |/ __ |/ __ \_  __ \/    \_/ __ \   __\
+     /        \  |_> >  / /_/ \  ___/|  | \/   |  \  ___/|  |  
+    /_______  /   __/|__\____ |\___  >__|  |___|  /\___  >__|  
+            \/|__|           \/    \/           \/     \/      
+            
+            
+
         
-    Usage: python spidernet.py
+Usage: python spidernet.py
     
     #> python spidernet.py 
     [0] Connect Hosts
